@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Behindwoods</string>
+    <string name="action_settings">Settings</string>
+	<string-array name="items_array">
+        <item>STORIES</item>
+		<item>VIDEOS</item>
+		<item>REVIEWS</item>
+		<item>COLUMNS</item>
+		<item>CONTACT US</item>
+	</string-array>
+	<string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    	<string-array name="videos_array">
+		<item>Trailers</item>
+		<item>Other Videos</item>
+		<item>Hindi Trailers</item>
+		<item>Short Films</item>
+	</string-array>
+    <string-array name="reviews_array">
+        <item>Movie Reviews</item>
+		<item>Song Reviews</item>
+		<item>Release Expectations</item>
+		<item>Hindi Movie Reviews</item>
+	</string-array>
+	<string-array name="columns_array">
+        <item>Behindwoods Columns</item>
+		<item>Visitors Columns</item>
+    </string-array>
+</resources>

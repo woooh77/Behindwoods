@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/pre-dexed/debug/classes-d678ed3d09c7733e59991e69351691f20f402beb.jar" />
+    </item>
+    <item
+        jar="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/pre-dexed/debug/classes-daca07065ee004a2b4cc10ad8e16b7cbc8052a87.jar" />
+    </item>
+    <item
+        jar="/Users/balavigneshr/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-00e1df833f76ac90476a0e7c408fd461e74dca02.jar" />
+    </item>
+    <item
+        jar="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/pre-dexed/debug/classes-b861142b1cfed701cd6255c1c906d54e155b85ae.jar" />
+    </item>
+    <item
+        jar="/Users/balavigneshr/Downloads/Behindwoods/app/libs/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-386ba92ba1a831396a3243865399c257f134460a.jar" />
+    </item>
+    <item
+        jar="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-50442aa05d269de38c5630d981f3243b15511c0f.jar" />
+    </item>
+    <item
+        jar="/Users/balavigneshr/Downloads/Behindwoods/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-3ef62af2fdf25c6cf443f92f6fe2b46b9c1b4ea0.jar" />
+    </item>
+
+</items>

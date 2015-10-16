@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+      android:startColor="#00000000"
+      android:endColor="#2c3e50"
+      android:angle="-270" /> 
+</shape><!-- From: file:/Users/balavigneshr/Downloads/Behindwoods/app/src/main/res/drawable-mdpi/listgrad.xml -->

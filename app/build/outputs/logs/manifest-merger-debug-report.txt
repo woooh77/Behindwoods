@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:5:5-32
+	android:versionCode
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:6:2-64
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:6:19-61
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:7:2-73
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:7:19-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:8:22-76
+uses-sdk
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] /Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:13:5-62:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] /Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] /Users/balavigneshr/Downloads/Behindwoods/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:17:9-42
+activity#com.viki.behindwoods.SplashScreen_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:20:4-65
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:19:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.viki.behindwoods.News_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:27:9-29:76
+	android:launchMode
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:28:13-43
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:27:19-48
+activity#com.viki.behindwoods.Details_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:parentActivityName
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:31:13-56
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:32:13-74
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:30:19-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:33:13-35:46
+	android:value
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:34:13-59
+activity#com.viki.behindwoods.Videos_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:37:3-39:70
+	android:launchMode
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:38:7-37
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:39:7-68
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:37:13-44
+activity#com.viki.behindwoods.Reviews_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:40:3-42:70
+	android:launchMode
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:41:7-37
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:42:7-68
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:40:13-45
+activity#com.viki.behindwoods.Reviews_details_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:43:3-49:14
+	android:parentActivityName
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:44:7-53
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:45:7-68
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:43:13-53
+activity#com.viki.behindwoods.Photos_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:50:3-52:70
+	android:launchMode
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:51:7-37
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:52:7-68
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:50:13-44
+activity#com.viki.behindwoods.Other_videos_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:53:3-56:70
+	android:parentActivityName
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:55:7-53
+	android:launchMode
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:54:7-37
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:56:7-68
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:53:13-50
+activity#com.viki.behindwoods.Columns_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:57:9-59:70
+	android:launchMode
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:58:7-37
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:59:7-68
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:57:19-51
+activity#com.viki.behindwoods.Contact_activity
+ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:60:3-61:70
+	android:configChanges
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:61:7-68
+	android:name
+		ADDED from /Users/balavigneshr/Downloads/Behindwoods/app/src/main/AndroidManifest.xml:60:13-45
